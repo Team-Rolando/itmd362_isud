@@ -1,12 +1,8 @@
 * {
   font-size: 1.3vw;
+  font-family: 'News Cycle', sans-serif, 'Times New Roman', serif;
+  font-family: 'News Cycle', sans-serif, 'Times New Roman', serif;
   color: #000102;
-}
-
-body{
-  font-family: 'Source Sans Pro', sans-serif
-  , Utopia, "Liberation Serif",
-  "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
 }
 
 p, ul, ol {

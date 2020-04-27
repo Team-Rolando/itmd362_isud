@@ -1,6 +1,6 @@
 html {
   font-size: 16px;
-  font-family: 'News Cycle', sans-serif;
+  font-family: 'News Cycle', sans-serif, Tahoma, sans-serif, Geneva, sans-serif;
   color: #000102;
 }
 
@@ -321,5 +321,10 @@ iframe {
     background: #6b919e; 
     border-radius: 1em;
   }
+  
+  @media only screen and (min-width: 480px) {
+	  
+  }
+
 }
 
